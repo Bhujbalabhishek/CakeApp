@@ -1,8 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <h3>You can visit the app by clicking the below link</h3>
 
 [cakeapp_Link](https://Bhujbalabhishek.github.io/cakeapp)
+
+
+<h1>Prerequisites</h1>
+
+1)An adequate version of Node.js is installed. Here's the adequate version I use
+
+$ node --version
+
+v12.18.3
+
+2)An adequate version of npm is installed. Here's the adequate version I use
+
+$ npm --version
+
+6.14.6
+
+
+3)This project was bootstrapped with [create-react-app](https://github.com/facebook/create-react-app).
 
 
 
