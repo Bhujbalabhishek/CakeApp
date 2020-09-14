@@ -159,7 +159,7 @@ function App() {
 {/* <MyProvider>
   <ProductList/>
 </MyProvider> */}
-<ParentComp/>
+// <ParentComp/>
       </div>
     </Provider>
 
