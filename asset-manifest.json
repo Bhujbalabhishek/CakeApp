@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bhujbalabhishek/cakeapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Bhujbalabhishek/cakeapp/static/js/main.f367c28e.chunk.js",
+    "main.js.map": "/Bhujbalabhishek/cakeapp/static/js/main.f367c28e.chunk.js.map",
+    "runtime-main.js": "/Bhujbalabhishek/cakeapp/static/js/runtime-main.e5086340.js",
+    "runtime-main.js.map": "/Bhujbalabhishek/cakeapp/static/js/runtime-main.e5086340.js.map",
+    "static/js/2.352c554b.chunk.js": "/Bhujbalabhishek/cakeapp/static/js/2.352c554b.chunk.js",
+    "static/js/2.352c554b.chunk.js.map": "/Bhujbalabhishek/cakeapp/static/js/2.352c554b.chunk.js.map",
+    "index.html": "/Bhujbalabhishek/cakeapp/index.html",
+    "precache-manifest.b57235fcb39aa16161829f11216e2619.js": "/Bhujbalabhishek/cakeapp/precache-manifest.b57235fcb39aa16161829f11216e2619.js",
+    "service-worker.js": "/Bhujbalabhishek/cakeapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Bhujbalabhishek/cakeapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.352c554b.chunk.js.LICENSE.txt": "/Bhujbalabhishek/cakeapp/static/js/2.352c554b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5086340.js",
+    "static/js/2.352c554b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f367c28e.chunk.js"
+  ]
+}
